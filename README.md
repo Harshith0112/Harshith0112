@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Harshit! 👋</h1>
 
-<!--
-**Harshith0112/Harshith0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud_Developer-AWS,_GCP,_Azure-blue?style=flat-square&logo=cloud" />&nbsp;
+  <img src="https://img.shields.io/badge/Frontend-React,_Next.js,_HTML,_CSS,_JS-green?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Currently_Learning-Serverless,_DevOps,_AI-yellow?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me  
+- 🎓 Passionate Cloud & Frontend Developer  
+- ☁️ Skilled in deploying scalable cloud solutions using AWS, GCP & Azure  
+- 💻 Experienced in building responsive UIs with React, Tailwind, and modern JS frameworks  
+- 🚀 Continuously learning Serverless Architectures, DevOps tools, and AI integrations  
+- 🌐 Love solving real-world problems through tech
+
+---
+
+## 🔧 Tech Stack  
+
+### 💻 Languages & Frameworks  
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
+
+### ☁️ Cloud Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+</p>
+
+### ⚙️ Tools & DevOps  
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projects  
+Some of the projects I'm proud of:  
+📌 Serverless eLearning Platform on AWS (Lambda, DynamoDB, S3, API Gateway)  
+📌 Admin Dashboard with React, Tailwind & shadcn/ui  
+📌 Portfolio website with Next.js & Vercel  
+📌 Real-time Chat App using Firebase  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit&show_icons=true&theme=radical" width="400" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit&theme=dark" width="400" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshit-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/harshit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Harshit-lightgrey?style=flat-square&logo=github" />
+  </a>
+</p>
+
+---
+
+🌟 Let's build the future, one line of code at a time!
