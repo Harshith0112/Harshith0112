@@ -56,19 +56,19 @@ Some of the projects I'm proud of:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit&show_icons=true&theme=radical" width="400" />&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit&theme=dark" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshith&show_icons=true&theme=radical" width="400" />&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshith&theme=dark" width="400" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/harshit/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Harshit-blue?style=flat-square&logo=linkedin" />
+  <a href="[https://www.linkedin.com/in/harshith/" target="_blank](https://www.linkedin.com/in/dindukurthi-harshith/)">
+    <img src="https://img.shields.io/badge/LinkedIn-Harshith-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/harshit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Harshit-lightgrey?style=flat-square&logo=github" />
+  <a href="[https://github.com/harshith" target="_blank](https://github.com/Harshith0112/Harshith0112/)">
+    <img src="https://img.shields.io/badge/GitHub-Harshith-lightgrey?style=flat-square&logo=github" />
   </a>
 </p>
 
